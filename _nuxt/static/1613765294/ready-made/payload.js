@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ready-made", {data:[{}],fetch:{},mutations:[]});

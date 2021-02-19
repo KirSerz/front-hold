@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/efficient-frontier", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/create-new-portfolio/efficient-frontier", {data:[{}],fetch:{},mutations:[]});

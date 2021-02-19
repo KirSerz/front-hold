@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/landing-modal/signing-up", {data:[{}],fetch:{},mutations:[]});

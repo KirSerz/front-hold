@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/email/confirm-email", {data:[{}],fetch:{},mutations:[]});

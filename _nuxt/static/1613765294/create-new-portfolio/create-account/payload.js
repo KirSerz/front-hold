@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/create-new-portfolio/create-account", {data:[{}],fetch:{},mutations:[]});

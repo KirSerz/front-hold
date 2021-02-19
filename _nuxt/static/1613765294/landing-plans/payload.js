@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/landing-plans", {data:[{}],fetch:{},mutations:[]});
